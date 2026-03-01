@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel Fuel Guard",
+  "description": "A modern fraud detection dashboard for fuel subsidy management, combining deterministic rules with Gemini AI analysis.",
+  "requestFramePermissions": []
+}
